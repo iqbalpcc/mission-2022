@@ -2,3 +2,42 @@ body{
     margin: 0;
     padding: 0;
 }
+.container-flexible{
+    display: flex;
+}
+
+.half-width{
+    width: 40%;
+}
+
+.stay-focused-img img{
+    width: 80%;
+    margin-left: 200px;
+    margin-top: 0;
+}
+
+.stay-focused-section{
+    width: 80%;
+    margin: 0 auto;
+}
+
+.stay-focused-text h1{
+    
+}
+
+.stay-focused-text p{
+    text-align: justify;
+}
+
+.button{
+padding: 8px 30px;
+background-color: bisque;
+border-radius: 5px;
+border: 1px solid black;
+}
+
+.button:hover{
+    background-color: brown;
+    color: white;
+    cursor: pointer;
+}
