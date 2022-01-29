@@ -128,3 +128,82 @@ h2{
 .all-cards-mission-section{
     justify-content: space-between;
 }
+
+.width-80-margin-0-auto{
+    width: 80%;
+    margin: 0 auto;
+
+}
+
+.develop-section-img img{
+    width: 80%;
+    
+}
+
+.zero-margin-padding{
+    margin: 0;
+    padding: 0;
+}
+
+.develop-text-part{
+    margin: 50px 0 0;
+
+}
+
+.develop-text-part{
+text-align: justify;
+}
+
+.community-section-img img{
+    width: 80%;
+    padding-left: 80px;
+}
+
+
+.two-object-justification{
+    justify-content: space-between;
+}
+
+.community-part{
+    margin-top: 50px;
+}
+
+.develop-section{
+    margin-top: 60px;
+}
+
+h3{
+    font-family: 'Lato', sans-serif;
+font-family: 'Merriweather', serif;
+font-family: 'Montserrat', sans-serif;
+font-family: 'Nunito Sans', sans-serif;
+font-family: 'Raleway', sans-serif;
+font-family: 'Ubuntu', sans-serif;
+}
+
+.footer-div {
+    text-align: center;
+    padding: 4px;
+}
+footer{
+    background-color: black;
+    height: 100px;
+    margin-top: 50px;
+    
+}
+
+footer h1{
+    margin-bottom: 0;
+    color: white;
+
+
+}
+
+footer p{
+    margin-top: 0;
+    color:white
+}
+
+.red-color{
+    color: red;
+}
